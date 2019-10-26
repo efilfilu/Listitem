@@ -1,6 +1,6 @@
 package com.example.listapp;
 
-// This program is taken from youtube by Bill Butterfield
+// Credit: This program is taken from youtube by Bill Butterfield
 
 import android.content.Intent;
 import android.content.res.Resources;
