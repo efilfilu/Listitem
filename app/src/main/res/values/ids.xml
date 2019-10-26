@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="itemname" type="id" />
+    <item name="description" type="id" />
+    <item name="priceTextView" type="id" />
+</resources>

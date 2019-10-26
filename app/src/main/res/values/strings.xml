@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">List App</string>
+    <string name="items">items</string>
+    <string name="description">description</string>
+    <string name="price">price</string>
+    g>
+
+
+    <string-array name="items">
+        <item>Peach</item>
+        <item>Tomato</item>
+        <item>Squash</item>
+    </string-array>
+    <string-array name="price">
+        <item>$ 0.99</item>
+        <item>$ 0.42</item>
+        <item>$ 1.24</item>
+    </string-array>
+    <string-array name="description">
+        <item>I love Peach</item>
+        <item> Tomato is my favorite</item>
+        <item> I am not into Squash</item>
+    </string-array>
+</resources>
