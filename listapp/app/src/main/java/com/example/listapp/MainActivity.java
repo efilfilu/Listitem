@@ -1,6 +1,7 @@
 package com.example.listapp;
 
 // Credit: This program is taken from youtube by Bill Butterfield
+//This is for learning purpose only
 
 import android.content.Intent;
 import android.content.res.Resources;
