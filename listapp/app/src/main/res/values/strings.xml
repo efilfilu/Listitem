@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">listapp</string>
+    <string name="app_name">listappworks</string>
     <string name="name">Name</string>
     <string name="description">description</string>
     <string name="price">price</string>
@@ -17,6 +17,6 @@
     <string-array name="description">
         <item>I love Peach</item>
         <item> Tomato is my favorite</item>
-        <item> I am not into Squash</item>
+        <item> I am not into Squash also</item>
     </string-array>
 </resources>
